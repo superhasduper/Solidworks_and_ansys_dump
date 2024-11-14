@@ -1,2 +1,2 @@
 # Solidworks_and_ansys_dump
-this repository serves as a dump for a lot of my personal projects from solidworks and ansys, these projects include things such as drone desings, drone stress testing, mars rover designs, metalic structures stress tesings....
+this repository serves as a dump for a all the files regarding a drone design I developed together with Alex Hernandez Anton and Ricardo Navarro Salamanca in solidworks
